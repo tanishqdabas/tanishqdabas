@@ -76,3 +76,7 @@ New Delhi, India.
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tanishqdabas&background=1E293B&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <sub>Profile updated: August 2026</sub>
+</p>
