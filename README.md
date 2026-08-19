@@ -1,12 +1,11 @@
-<!--
-  Header image (optional): drop a designed banner here when you make one.
-  Everything below is static — no API keys, no Actions, nothing to maintain.
--->
+<p align="center">
+  <img src="header.svg" alt="Dreamscape: a violet night sky, a low glowing moon, mountain silhouettes and floating geometric shapes" width="880" />
+</p>
 
 <h2 align="center">Tanishq Dabas — Data Scientist</h2>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=700&lines=LLM+pipelines+%C2%B7+RAG+%C2%B7+fine-tuned+transformers;The+receipts%3A+one+patent%2C+one+book+chapter%2C+university+rank+1;zero+hallucinations+%28mostly%29" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&width=650&lines=turning+raw+language+into+structured+knowledge;LLM+pipelines+%C2%B7+RAG+%C2%B7+fine-tuned+transformers;the+receipts%3A+one+patent%2C+one+book+chapter%2C+university+rank+1" alt="Typing SVG" /></a>
 </p>
 
 I build systems that turn raw language into structured knowledge — RAG pipelines, fine-tuned transformers, and LLM agents that actually ship.
@@ -16,9 +15,9 @@ The receipts: a GenAI knowledge graph at EY that tamed 200+ banking terms and cu
 New Delhi, India.
 
 <p align="center">
-  <a href="https://github.com/tanishqdabas"><img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/tanishqdabas"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-  <a href="mailto:dabastanishq@gmail.com"><img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://github.com/tanishqdabas"><img src="https://img.shields.io/badge/GitHub-1E1145?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/tanishqdabas"><img src="https://img.shields.io/badge/LinkedIn-1E1145?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn" /></a>
+  <a href="mailto:dabastanishq@gmail.com"><img src="https://img.shields.io/badge/Email-1E1145?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" /></a>
 </p>
 
 ### Stack
@@ -26,43 +25,43 @@ New Delhi, India.
 **Languages**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-1E293B?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-1E293B?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-1E1145?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-1E1145?style=for-the-badge&logo=cplusplus&logoColor=A78BFA" alt="C++" />
 </p>
 
 **ML / Deep Learning**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-1E293B?style=for-the-badge&logo=pytorch&logoColor=22D3EE" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-1E293B?style=for-the-badge&logo=tensorflow&logoColor=22D3EE" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-1E293B?style=for-the-badge&logo=scikit-learn&logoColor=22D3EE" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-1E293B?style=for-the-badge&logo=huggingface&logoColor=22D3EE" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyTorch-1E1145?style=for-the-badge&logo=pytorch&logoColor=A78BFA" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-1E1145?style=for-the-badge&logo=tensorflow&logoColor=A78BFA" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-1E1145?style=for-the-badge&logo=scikit-learn&logoColor=A78BFA" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-1E1145?style=for-the-badge&logo=huggingface&logoColor=A78BFA" alt="Hugging Face" />
 </p>
 
 **GenAI / NLP**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1E293B?style=for-the-badge&logo=langchain&logoColor=22D3EE" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-1E293B?style=for-the-badge" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-1E293B?style=for-the-badge" alt="LLM Fine-tuning" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-1E293B?style=for-the-badge" alt="Vector DBs" />
+  <img src="https://img.shields.io/badge/LangChain-1E1145?style=for-the-badge&logo=langchain&logoColor=A78BFA" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1E1145?style=for-the-badge" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/RAG-1E1145?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM%20Fine--tuning-1E1145?style=for-the-badge" alt="LLM Fine-tuning" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-1E1145?style=for-the-badge" alt="Vector DBs" />
 </p>
 
 **MLOps / Data**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=22D3EE" alt="Docker" />
-  <img src="https://img.shields.io/badge/FastAPI-1E293B?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MLflow-1E293B?style=for-the-badge&logo=mlflow&logoColor=22D3EE" alt="MLflow" />
-  <img src="https://img.shields.io/badge/Pandas-1E293B?style=for-the-badge&logo=pandas&logoColor=22D3EE" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Power%20BI-1E293B?style=for-the-badge&logo=powerbi&logoColor=22D3EE" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Docker-1E1145?style=for-the-badge&logo=docker&logoColor=A78BFA" alt="Docker" />
+  <img src="https://img.shields.io/badge/FastAPI-1E1145?style=for-the-badge&logo=fastapi&logoColor=A78BFA" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/MLflow-1E1145?style=for-the-badge&logo=mlflow&logoColor=A78BFA" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Pandas-1E1145?style=for-the-badge&logo=pandas&logoColor=A78BFA" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Power%20BI-1E1145?style=for-the-badge&logo=powerbi&logoColor=A78BFA" alt="Power BI" />
 </p>
 
 ### Now
 
 - **Building** — production RAG pipelines and LLM agents for enterprise knowledge work
-- **Learning** — RLHF and agentic workflows (and keeping hallucination out of the first one)
+- **Learning** — RLHF and agentic workflows
 - **Open to** — job hunting · research & collab offers · open-source contributors
 
 ### Featured work
@@ -74,7 +73,7 @@ New Delhi, India.
 | [DreamForge](https://github.com/tanishqdabas/DreamForge) | Chains Gemini + a diffusion model into one reproducible pipeline — 10+ output formats per prompt chain |
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanishqdabas&background=1E293B&ring=22D3EE&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=94A3B8&sideNums=94A3B8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tanishqdabas&background=1E1145&ring=A78BFA&fire=22D3EE&currStreakNum=A78BFA&currStreakLabel=C4B5FD&sideNums=C4B5FD&sideLabels=8B7EC8&dates=8B7EC8&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
