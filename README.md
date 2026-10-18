@@ -1,6 +1,6 @@
 # Tanishq Dabas
 
-**Data scientist · New Delhi, India**
+**AI Engineer · New Delhi, India**
 
 I build systems that turn raw language into structured knowledge: retrieval-augmented pipelines, fine-tuned transformers, and LLM agents. My work covers the full path — training and evaluating a model, serving it through a FastAPI endpoint, and deploying it with Docker.
 
