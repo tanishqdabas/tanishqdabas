@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/tanishqdabas">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Ftanishqdabas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tanishqdabas">
-    <img src="https://img.shields.io/badge/GitHub-tanishqdabas-1C1E21?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br />
@@ -103,12 +100,17 @@ against a 76% monolingual baseline, backed by proper statistical testing.
 
 ## stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-1C1E21?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-445AE9?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-</p>
+**Languages** — Python, C++
 
-**LLM pipelines · RAG systems · fine-tuned transformers · agent workflows · applied ML · generative models**
+**ML / DL Frameworks** — PyTorch, TensorFlow, Scikit-learn, XGBoost, Transformers (Hugging Face), Regression, Classification, Clustering, Deep Learning, NLP, Ensemble Methods, Time Series Analysis, Dimensionality Reduction, Matplotlib, Seaborn
+
+**GenAI and NLP** — RAG, Retrieval-Augmented Generation, LLM Fine-tuning, RLHF, Model Evaluation, Prompt Engineering, Prompt Chaining, LangChain, LangGraph, OpenAI API, Gemini API, Embeddings, Semantic Search, Text Classification, NER, Sentiment Analysis, Vector Databases (Pinecone, FAISS)
+
+**MLOps and Deployment** — Docker, Weights & Biases, FastAPI, REST APIs, CI/CD, Experiment Tracking, Model Monitoring, Model Deployment, Data Pipelines, Git, GitHub
+
+**Data and Statistics** — Pandas, NumPy, SciPy, Statistical Modelling, Predictive Modelling, EDA, Feature Engineering, Feature Selection, A/B Testing, Cross-validation, Hypothesis Testing, Data Wrangling, SHAP, Imbalanced Data Handling
+
+**Databases / BI** — MySQL, MS SQL Server, Power BI
 
 <div align="center">
   <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
@@ -124,6 +126,6 @@ against a 76% monolingual baseline, backed by proper statistical testing.
 
 - **Email address** (`dabastanishq@gmail.com`) — the portfolio doesn't display an email; carrying it over from your previous profile README. Confirm and I'll add it to the contact section.
 - **Project repo links** — the portfolio pages don't link out to repositories; the URLs above were taken from your previous profile README.
-- **Broader tool list** (C++, TensorFlow, scikit-learn, FastAPI, Docker, LangChain, LangGraph, MLflow, Pandas, Power BI, vector DBs) — shown in your old profile README but not on the portfolio itself, so left out of the stack section. Say the word and I'll extend the badges.
+- **Broader tool list** — C++, TensorFlow, scikit-learn, FastAPI, Docker, LangChain, LangGraph, MLflow, Pandas, Power BI and the rest now live in the stack section as provided by you.
 
 </details>
