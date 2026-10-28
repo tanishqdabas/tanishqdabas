@@ -8,12 +8,18 @@
   <a href="https://tanishqdabas.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-tanishqdabas.vercel.app-445AE9?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/tanishqdabas/portfolio">
-    <img src="https://img.shields.io/badge/Repo-github.com%2Ftanishqdabas%2Fportfolio-1C1E21?style=flat-square&logo=github&logoColor=white" alt="Portfolio source" />
-  </a>
   <a href="https://www.linkedin.com/in/tanishqdabas">
     <img src="https://img.shields.io/badge/LinkedIn-in%2Ftanishqdabas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/tanishqdabas">
+    <img src="https://img.shields.io/badge/GitHub-tanishqdabas-1C1E21?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
 </div>
 
 ## about
@@ -23,66 +29,101 @@
 **AI Engineer · New Delhi, India**
 
 I build LLM systems that survive contact with production.<br/>
-Then I ship them: FastAPI endpoints, Docker images, things that hold up after the notebook.
+Data scientist working mostly with LLMs and applied ML — RAG pipelines, fine-tuned
+models, agent workflows — and I care most about the part after the notebook:
+shipping systems that hold up in production.
 
 </div>
 
-## the app
+Finishing a **B.Tech in AI and Data Science** at Guru Gobind Singh Indraprastha University
+(2022–2026, **CGPA 8.5/10**) — ranked **1st in the university** in the 8th semester with a
+**10/10 SGPA**.
 
-[**tanishqdabas.vercel.app**](https://tanishqdabas.vercel.app) is my portfolio web app. An interactive, animation-driven single-site experience built on the Next.js App Router — a full-screen hero with a marquee name slider, scroll-linked parallax project thumbnails with a custom cursor, magnetic buttons, word-based preloaders and choreographed route transitions, all on Lenis smooth scrolling. Home, Work, About, Projects, Achievements and Contact each get their own experience, plus a working contact form that lands straight in my inbox and a custom 404.
+I like problems that are messy, measurable, and consequential — the kind where being
+roughly right on time beats being exactly right too late.
 
-**features**
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
+</div>
 
-- **Hero with marquee slider** — full-screen viewport, oversized moving name, GSAP/Framer Motion easing
-- **Parallax project thumbnails** — scroll-linked image slider with hover labels and a custom cursor
-- **Magnetic buttons** — elements that follow the pointer, ghost and accent variants
-- **Preloader + route transitions** — word-based intro, choreographed page changes on every route
-- **Lenis smooth scrolling** — inertia scroll paired with scroll-linked reveals
-- **Working contact form** — posts through [Web3Forms](https://web3forms.com) directly to my inbox
-- **SEO-ready** — sitemap, robots, Open Graph and Twitter card metadata out of the box
-- **Reduced-motion aware** — hero animations degrade gracefully under `prefers-reduced-motion`
+## work
 
-**built with**
+**AI Software Development Intern** · TechAIVV Technologies · Jul 2026–Present
 
-<p>
-  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_15_%28App_Router%29-1C1E21?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-1C1E21?style=flat-square&logo=react&logoColor=white" alt="React" /></a>
-  <a href="https://motion.dev/"><img src="https://img.shields.io/badge/Framer_Motion-445AE9?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /></a>
-  <a href="https://gsap.com/"><img src="https://img.shields.io/badge/GSAP-445AE9?style=flat-square&logo=gsap&logoColor=white" alt="GSAP" /></a>
-  <a href="https://lenis.darkroom.engineering/"><img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-1C1E21?style=flat-square" alt="Lenis" /></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-1C1E21?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/Styled_Components-445AE9?style=flat-square&logo=styledcomponents&logoColor=white" alt="styled-components" /></a>
-  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Deployed_on_Vercel-1C1E21?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /></a>
-</p>
+Rebuilding an AI product from the inside out — fixing a caching bug that hammered the
+database on every request, and closing critical zero-day flaws that had left recruiter
+data and scheduling APIs exposed.
+
+**AI Intern** · Twenty Nine · Jun–Jul 2026
+
+Built a manufacturing analysis system that found where production was quietly losing
+efficiency, then turned those findings into ML use cases the business team could act on.
+
+**Generative AI Intern** · Ernst & Young · Jul–Oct 2025
+
+Built a GenAI knowledge graph over 200+ banking terms, used by 50+ people across the
+org, plus a containerized LLM pipeline for document lookup that cut manual review time
+by nearly half.
+
+**AI/ML Intern** · Central Research Laboratory, Bharat Electronics Limited · Jan–Mar 2025
+
+Fine-tuned a BERT model on 15,000+ labeled tactical communications — cutting false
+positives by 30% on reconnaissance data and shaving ~20ms off inference latency.
+
+**NLP Research Intern** · University of Delhi · Jun–Aug 2024
+
+Researched multilingual text classification, building a pipeline that hit 82% accuracy
+against a 76% monolingual baseline, backed by proper statistical testing.
+
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
+</div>
 
 ## projects
 
-| Project | What it does |
-|---|---|
-| [Fake News Detection](https://github.com/tanishqdabas/Fake-News-Detector-Streamlit-app-with-XGBoost-TF-IDF) | Streamlit app that classifies news articles with an XGBoost ensemble on TF-IDF features; the ensemble beats the best single model by 3%. |
-| [MindSync](https://github.com/tanishqdabas/Mindful-Space) | Student wellbeing platform with an empathetic chat companion, mood check-ins, distress detection, and therapist booking; 1,000+ students onboarded. |
-| [DreamForge](https://github.com/tanishqdabas/DreamForge) | Chains Gemini and a diffusion model into one reproducible pipeline, generating 10+ output formats from a single prompt chain. |
+- **[MindSync](https://github.com/tanishqdabas/Mindful-Space)** — a patented student wellbeing platform with AI-powered journaling, a risk-scoring model, and live appointment booking; running in production for 1,000+ students.
+- **[DreamForge](https://github.com/tanishqdabas/DreamForge)** — chains Gemini and a diffusion model together so a single prompt turns into a full set of narrative and visual content.
+- **[Fake News Detection](https://github.com/tanishqdabas/Fake-News-Detector-Streamlit-app-with-XGBoost-TF-IDF)** — benchmarked six ML architectures for detecting fake news; the ensemble beat the best single model by 3%.
+
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
+</div>
 
 ## achievements
 
-- **Patent** — granted for the MindSync student wellbeing platform
-- **Publication** — book chapter on fake news detection ensembles, CRC Press/Routledge (2025)
-- **Rank 1** — university-wide, 8.5 CGPA with a 10/10 final semester
-- **Ernst & Young** — GenAI knowledge graph over 200+ banking terms, used by 50+ people, cutting manual lookup time by 45%
-- **Bharat Electronics** — fine-tuned BERT at the central research lab, cutting false positives on surveillance models by 30%
+- **2 utility & need patents** — including MindSync, the AI student-wellbeing platform now serving 1,000+ students
+- **Published research** — fake-news detection chapter with CRC Press/Routledge (2025), where the ensemble came out on top
+- **IBM Data Science Professional (2026) · IBM Generative AI Professional (2025)** — backed by 13 verified Credly badges
+- **10/10 SGPA · University Rank 1** — plus Highest Achiever Award, 1st in class (HSC), and 1st place in the Debate & Story Writing Competition
+- **Leadership** — Peer Supporter at VIPS (confidential support for 20+ students, +15% resource utilisation) and Career Development Centre core member (5+ initiatives, 300+ attendees, 10+ industry speakers)
+
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
+</div>
 
 ## stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,sklearn,docker,fastapi&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,cpp,pytorch,tensorflow,sklearn,docker,fastapi&theme=light" alt="Python, C++, PyTorch, TensorFlow, scikit-learn, Docker, FastAPI" />
-</picture>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-1C1E21?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-445AE9?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
 
-Also: Hugging Face, LangChain, LangGraph, MLflow, Pandas, Power BI, LLM fine-tuning, RAG, vector DBs.
+**LLM pipelines · RAG systems · fine-tuned transformers · agent workflows · applied ML · generative models**
 
-**Currently:** AI Software Development Intern at TechAIVV Technologies (since July 2026), rebuilding and hardening a production AI product. Learning RLHF and agentic workflow design on the side.
+<div align="center">
+  <img src="./divider.svg" width="100%" alt="" aria-hidden="true" />
+</div>
 
 ## contact
 
 > [!NOTE]
-> Open to AI/ML engineering roles. Best reached at [dabastanishq@gmail.com](mailto:dabastanishq@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tanishqdabas)
+> Open to AI/ML engineering roles. Best reached via [LinkedIn](https://www.linkedin.com/in/tanishqdabas) · [GitHub](https://github.com/tanishqdabas) · or the contact form at [tanishqdabas.vercel.app](https://tanishqdabas.vercel.app)
+
+<details>
+<summary>Notes — details not shown on the portfolio</summary>
+
+- **Email address** (`dabastanishq@gmail.com`) — the portfolio doesn't display an email; carrying it over from your previous profile README. Confirm and I'll add it to the contact section.
+- **Project repo links** — the portfolio pages don't link out to repositories; the URLs above were taken from your previous profile README.
+- **Broader tool list** (C++, TensorFlow, scikit-learn, FastAPI, Docker, LangChain, LangGraph, MLflow, Pandas, Power BI, vector DBs) — shown in your old profile README but not on the portfolio itself, so left out of the stack section. Say the word and I'll extend the badges.
+
+</details>
