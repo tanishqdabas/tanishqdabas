@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="Tanishq Dabas — AI Engineer banner">
+  <defs>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#445AE9"/>
+      <stop offset="100%" stop-color="#3149D3"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#F2F3F5" opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- base: portfolio foreground ink -->
+  <rect width="1600" height="500" fill="#1C1E21"/>
+  <rect width="1600" height="500" fill="url(#grid)"/>
+
+  <!-- accent edge: portfolio primary gradient -->
+  <rect x="0" y="0" width="14" height="500" fill="url(#accent)"/>
+
+  <!-- faint marquee, a nod to the hero name slider -->
+  <text x="60" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="8" fill="#F2F3F5" opacity="0.06">
+    TANISHQ DABAS — TANISHQ DABAS — TANISHQ DABAS
+  </text>
+
+  <!-- headline -->
+  <text x="84" y="248" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="108" font-weight="800" letter-spacing="2" fill="#F2F3F5">
+    TANISHQ DABAS
+  </text>
+
+  <!-- accent rule -->
+  <rect x="86" y="284" width="340" height="8" rx="4" fill="url(#accent)"/>
+
+  <!-- subtitle -->
+  <text x="84" y="352" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" letter-spacing="2" fill="#999A9F">
+    AI Engineer — LLM pipelines · RAG · fine-tuned models
+  </text>
+
+  <!-- site link -->
+  <rect x="1364" y="424" width="8" height="8" fill="#445AE9"/>
+  <text x="1520" y="434" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" letter-spacing="1" fill="#716D7A">
+    tanishqdabas.vercel.app
+  </text>
+</svg>
