@@ -119,7 +119,7 @@ against a 76% monolingual baseline, backed by proper statistical testing.
 ## contact
 
 > [!NOTE]
-> Open to AI/ML engineering roles. Best reached via [LinkedIn](https://www.linkedin.com/in/tanishqdabas) · [GitHub](https://github.com/tanishqdabas) · or the contact form at [tanishqdabas.vercel.app](https://tanishqdabas.vercel.app)
+> Open to AI/ML engineering roles. Best reached via [LinkedIn](https://www.linkedin.com/in/tanishqdabas) · [GitHub](https://github.com/tanishqdabas) · or the [Contact form](https://tanishqdabas.vercel.app/contact)
 
 <details>
 <summary>Notes — details not shown on the portfolio</summary>
